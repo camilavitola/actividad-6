@@ -1,0 +1,22 @@
+body {
+    background: rgb(55, 116, 6) /* ALT + SHIFT+ A, color de fondo */ 
+
+/* Centrar Texto */  
+/* color de las letras */ 
+}
+
+h1 { font-size: 70px;
+text-align: center;}
+
+h2, h3 {
+    text-align: left;
+    font-size: 40px;
+    height: 1px;
+    
+}
+
+p {  
+font-size: 20px;
+text-align:justify;
+
+}
